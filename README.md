@@ -1,0 +1,1 @@
+this reposiory deals with shopify projects
